@@ -14,6 +14,21 @@ calculus of real–valued functions of two variables and applications,
 calculus of real-valued functions of multiple variables and applications.
 
 ## Class Materials
+
+| Platform  | Activity | URL |
+| -------- | ---------- | ---------|
+| RMUTT D-Learn | Quizzes & Examinations | [Click](https://dlearn.rmutt.ac.th/course/view.php?id=1950) |
+| GitHub | Class Materials & Annoucements | This page |
+| YouTube Channel | Recorded Lectures | [Click](https://www.youtube.com/playlist?list=PL6s54_j3o0zHxe5dGr9_vzfqODgQQveXr) |
+| Microsoft Teams | Live Lectures & Assignments | [Join](https://teams.microsoft.com/l/team/19%3ad4ebbef063874b2986d94a6e41174153%40thread.tacv2/conversations?groupId=cd01927a-5e19-48b7-a451-fcb8e2fc95d1&tenantId=0ace20bb-9275-4172-b6f2-52b66dba0f4d) |
+
+
+| Topic  | URL |
+| ----------- | ----------- |
+| Parametric Curves |[Download Here](https://github.com/epsilonxe/RMUTT_CALE2/blob/main/Class%20Materials/parametric_curves_th.pdf) |
+| Polar Curves |[Download Here](https://github.com/epsilonxe/RMUTT_CALE2/blob/main/Class%20Materials/polar_curves_th.pdf) |
+
+
 | Topic  | URL |
 | ----------- | ----------- |
 | Parametric Curves |[Download Here](https://github.com/epsilonxe/RMUTT_CALE2/blob/main/Class%20Materials/parametric_curves_th.pdf) |
